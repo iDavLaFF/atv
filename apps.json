@@ -1,0 +1,65 @@
+{
+	"apps": [
+		{
+			"title": "AdGuard VPN",
+			"description": "VPN клиент с 70+ локациями по всему миру всего за два клика, и ваши данные будут надёжно скрыты от посторонних глаз.",
+			"url": "https://agrd.io/andrtvvpn",
+			"category": "iDavLaFF.apps.atv"
+		},
+		{
+			"title": "AmneziaWG",
+			"description": "VPN клиент с обфускацией трафика.",
+			"url": "https://github.com/amnezia-vpn/amneziawg-android/releases/download/v1.1.1/AmneziaWG.apk",
+			"config": "https://idavlaff.github.io/atv/AmneziaWG-YT.conf",
+			"category": "iDavLaFF.apps.atv"
+		},
+		{
+			"title": "tvQuickActions Pro 3.5.4 by StrannikModz",
+			"description": "Великолепное приложение для переназначения действий кнопок пульта вашей тв-приставки. В наличии таймер сна и режим мыши. Количество действий, предлагаемых на нажатие кнопки, поражает воображение. Позволяет настраивать AFR. В приложении очень много настроек.",
+			"url": "https://strannikmodz.me/index.php?do=download&id=6058",
+			"category": "iDavLaFF.apps.atv"
+		},
+		{
+			"title": "Mixplorer ST 6.65.9 Silver by StrannikModz",
+			"description": "MiXplorer - это быстрый, удобный, красивый и полнофункциональный менеджер файлов с простым пользовательским интерфейсом.",
+			"url": "https://strannikmodz.me/index.php?do=download&id=5600",
+			"category": "iDavLaFF.apps.atv"
+		},
+		{
+			"title": "TorrServe Matrix 135",
+			"description": "Торрент-клиент и сервер",
+			"url": "https://github.com/YouROK/TorrServe/releases/download/MatriX.135.Client/TorrServe_MatriX.135.Client-release.apk",
+			"category": "iDavLaFF.apps.atv"
+		},
+		{
+			"title": "Vimu Media Player",
+			"description": "Продвинутый медиаплеер для Android TV, Google TV и Android боксов.",
+			"url": "https://get.vimu.tv/installer/VimuInstaller.apk",
+			"category": "iDavLaFF.apps.atv"
+		},
+		{
+			"title": "RuStore",
+			"description": "Официальный магазин приложений для Android TV",
+			"url": "https://static.rustore.ru/release/RuStoreTV.apk",
+			"category": "iDavLaFF.apps.atv"
+		},
+		{
+			"title": "Lampa TV",
+			"description": "Просмотр информации о фильмах и сериалах, отслеживание релизов, поиск трейлеров и не только :)",
+			"url": "https://github.com/lampa-app/LAMPA/releases/latest/download/app-lite-release.apk",
+			"category": "iDavLaFF.apps.atv"
+		},
+		{
+			"title": "SmartTube",
+			"description": "Смотрите любимые видео без рекламы на медиа-боксах и ТВ на базе Android",
+			"url": "https://github.com/yuliskov/SmartTube/releases/download/latest/smarttube_stable.apk",
+			"category": "iDavLaFF.apps.atv"
+		},
+		{
+			"title": "Spotify Music 1.8.52",
+			"description": "Подключение к Spotify – самому популярному в мире стриминговому сервису, позволяющему легально прослушивать музыкальные композиции онлайн.",
+			"url": "https://files.modder.me/spotify/Spotify_TV-v1.85.2_build_1850200-Mod.apk",
+			"category": "iDavLaFF.apps.atv"
+		}
+	]
+}
