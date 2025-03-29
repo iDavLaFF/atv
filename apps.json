@@ -14,6 +14,12 @@
 			"category": "iDavLaFF.apps.atv"
 		},
 		{
+			"title": "Magisk",
+			"description": "Платформа для получения ROOT-прав и управления ими",
+			"url": "https://github.com/topjohnwu/Magisk/releases/download/v28.1/Magisk-v28.1.apk",
+			"category": "iDavLaFF.apps.atv"
+		},
+		{
 			"title": "tvQuickActions Pro 3.5.4 by StrannikModz",
 			"description": "Великолепное приложение для переназначения действий кнопок пульта вашей тв-приставки. В наличии таймер сна и режим мыши. Количество действий, предлагаемых на нажатие кнопки, поражает воображение. Позволяет настраивать AFR. В приложении очень много настроек.",
 			"url": "https://strannikmodz.me/index.php?do=download&id=6058",
