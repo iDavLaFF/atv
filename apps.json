@@ -1,16 +1,9 @@
 {
 	"apps": [
 		{
-			"title": "AdGuard VPN",
-			"description": "VPN клиент с 70+ локациями по всему миру всего за два клика, и ваши данные будут надёжно скрыты от посторонних глаз.",
-			"url": "https://agrd.io/andrtvvpn",
-			"category": "iDavLaFF.apps.atv"
-		},
-		{
-			"title": "AmneziaWG",
+			"title": "AmneziaVPN",
 			"description": "VPN клиент с обфускацией трафика.",
-			"url": "https://github.com/amnezia-vpn/amneziawg-android/releases/download/v1.1.2/AmneziaWG.apk",
-			"config": "https://idavlaff.github.io/atv/AmneziaWG-YT.conf",
+			"url": "https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.10.0/AmneziaVPN_4.8.10.0_android8+_armeabi-v7a.apk",
 			"category": "iDavLaFF.apps.atv"
 		},
 		{
