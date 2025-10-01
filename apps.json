@@ -38,7 +38,7 @@
 			"category": "iDavLaFF.apps.atv"
 		},
 		{
-			"title": "TorrServe Matrix 135",
+			"title": "TorrServe Matrix 136",
 			"description": "Торрент-клиент и сервер",
 			"url": "https://github.com/YouROK/TorrServe/releases/download/MatriX.136.Client/TorrServe_MatriX.136.Client-release.apk",
 			"category": "iDavLaFF.apps.atv"
@@ -53,6 +53,12 @@
 			"title": "Lampa TV",
 			"description": "Просмотр информации о фильмах и сериалах, отслеживание релизов, поиск трейлеров и не только :)",
 			"url": "https://github.com/lampa-app/LAMPA/releases/latest/download/app-lite-release.apk",
+			"category": "iDavLaFF.apps.atv"
+		},
+		{
+			"title": "VidHub",
+			"description": "VidHub - это видеоплеер для всех платформ Apple/Android.",
+			"url": "https://download.dacall.ai/tv/vidhub-TV-universal-release.apk",
 			"category": "iDavLaFF.apps.atv"
 		},
 		{
