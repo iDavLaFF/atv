@@ -1,69 +1,75 @@
 {
 	"apps": [
 		{
+			"title": "RuStore",
+			"description": "version latest",
+			"url": "https://static.rustore.ru/release/RuStoreTV.apk",
+			"category": "iDavLaFF.apps.atv"
+		},
+		{
 			"title": "AmneziaVPN",
-			"description": "VPN клиент с обфускацией трафика.",
-			"url": "https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.10.0/AmneziaVPN_4.8.10.0_android8+_armeabi-v7a.apk",
-			"category": "iDavLaFF.apps.atv"
-		},
-		{
-			"title": "Magisk",
-			"description": "Платформа для получения ROOT-прав и управления ими",
-			"url": "https://github.com/topjohnwu/Magisk/releases/download/v29.0/Magisk-v29.0.apk",
-			"category": "iDavLaFF.apps.atv"
-		},
-		{
-			"title": "ADB TV AppControl",
-			"description": "Ваш новый менеджер приложений для Android TV! Удаляйте* и отключайте приложения в пару кликов вашего пульта ДУ. Устанавливайте приложения на ваш ТВ по сети Wi-Fi, с любого устройства, которое есть у вас под рукой.",
-			"url": "https://adbappcontrol.com/tv/download/?r=latest&lang=ru",
-			"category": "iDavLaFF.apps.atv"
-		}
-		{
-			"title": "tvQuickActions Pro",
-			"description": "Великолепное приложение для переназначения действий кнопок пульта вашей тв-приставки. В наличии таймер сна и режим мыши. Количество действий, предлагаемых на нажатие кнопки, поражает воображение. Позволяет настраивать AFR. В приложении очень много настроек.",
-			"url": "https://strannikmodz.me/index.php?do=download&id=6444",
-			"category": "iDavLaFF.apps.atv"
-		},
-		{
-			"title": "Mixplorer Silver",
-			"description": "MiXplorer - это быстрый, удобный, красивый и полнофункциональный менеджер файлов с простым пользовательским интерфейсом.",
-			"url": "https://strannikmodz.me/index.php?do=download&id=5600",
+			"description": "version 4.8.11.0",
+			"url": "https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.11.0/AmneziaVPN_4.8.11.0_android8+_armeabi-v7a.apk",
 			"category": "iDavLaFF.apps.atv"
 		},
 		{
 			"title": "TorrServe Matrix",
-			"description": "Торрент-клиент и сервер",
-			"url": "https://github.com/YouROK/TorrServe/releases/download/MatriX.136.Client/TorrServe_MatriX.136.Client-release.apk",
+			"description": "version 136.1 (175)",
+			"url": "https://f-droid.org/repo/ru.yourok.torrserve_175.apk",
 			"category": "iDavLaFF.apps.atv"
 		},
 		{
-			"title": "Vimu Media Player",
-			"description": "Продвинутый медиаплеер для Android TV, Google TV и Android боксов.",
-			"url": "https://get.vimu.tv/installer/VimuInstaller.apk",
+			"title": "SmartTube",
+			"description": "version latest",
+			"url": "https://github.com/yuliskov/SmartTube/releases/download/latest/smarttube_stable.apk",
 			"category": "iDavLaFF.apps.atv"
 		},
 		{
 			"title": "Lampa TV",
-			"description": "Просмотр информации о фильмах и сериалах, отслеживание релизов, поиск трейлеров и не только :)",
+			"description": "version latest",
 			"url": "https://github.com/lampa-app/LAMPA/releases/latest/download/app-lite-release.apk",
 			"category": "iDavLaFF.apps.atv"
 		},
 		{
 			"title": "VidHub",
-			"description": "VidHub - это видеоплеер для всех платформ Apple/Android.",
+			"description": "version latest",
 			"url": "https://download.dacall.ai/tv/vidhub-TV-universal-release.apk",
 			"category": "iDavLaFF.apps.atv"
 		},
 		{
-			"title": "SmartTube",
-			"description": "Смотрите любимые видео без рекламы на медиа-боксах и ТВ на базе Android",
-			"url": "https://github.com/yuliskov/SmartTube/releases/download/latest/smarttube_stable.apk",
+			"title": "Vimu Media Player",
+			"description": "version latest",
+			"url": "https://get.vimu.tv/installer/VimuInstaller.apk",
 			"category": "iDavLaFF.apps.atv"
 		},
 		{
-			"title": "RuStore",
-			"description": "Официальный магазин приложений для Android TV",
-			"url": "https://static.rustore.ru/release/RuStoreTV.apk",
+			"title": "Just Video Player",
+			"description": "version 0.198",
+			"url": "https://github.com/moneytoo/Player/releases/download/v0.198/Just.Player.v0.198.apk",
+			"category": "iDavLaFF.apps.atv"
+		},
+		{
+			"title": "ADB TV AppControl",
+			"description": "version latest",
+			"url": "https://adbappcontrol.com/tv/download/?r=latest&lang=ru",
+			"category": "iDavLaFF.apps.atv"
+		},
+		{
+			"title": "tvQuickActions Pro",
+			"description": "version 3.5.5",
+			"url": "https://strannikmodz.me/index.php?do=download&id=6444",
+			"category": "iDavLaFF.apps.atv"
+		},
+		{
+			"title": "Mixplorer ST",
+			"description": "version 6.65.9 Silver",
+			"url": "https://strannikmodz.me/index.php?do=download&id=5600",
+			"category": "iDavLaFF.apps.atv"
+		},
+		{
+			"title": "Magisk",
+			"description": "version 29.0",
+			"url": "https://github.com/topjohnwu/Magisk/releases/download/v29.0/Magisk-v29.0.apk",
 			"category": "iDavLaFF.apps.atv"
 		}
 	]
