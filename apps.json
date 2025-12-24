@@ -8,8 +8,8 @@
 		},
 		{
 			"title": "AmneziaVPN",
-			"description": "version 4.8.11.0",
-			"url": "https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.11.0/AmneziaVPN_4.8.11.0_android8+_armeabi-v7a.apk",
+			"description": "version 4.8.11.4",
+			"url": "https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.11.4/AmneziaVPN_4.8.11.4_android9+_armeabi-v7a.apk",
 			"category": "iDavLaFF.apps.atv"
 		},
 		{
@@ -44,8 +44,8 @@
 		},
 		{
 			"title": "Just Video Player",
-			"description": "version 0.198",
-			"url": "https://github.com/moneytoo/Player/releases/download/v0.198/Just.Player.v0.198.apk",
+			"description": "version 0.203",
+			"url": "https://github.com/moneytoo/Player/releases/download/v0.203/Just.Player.v0.203.apk",
 			"category": "iDavLaFF.apps.atv"
 		},
 		{
@@ -68,8 +68,8 @@
 		},
 		{
 			"title": "Magisk",
-			"description": "version 29.0",
-			"url": "https://github.com/topjohnwu/Magisk/releases/download/v29.0/Magisk-v29.0.apk",
+			"description": "version 30.6",
+			"url": "https://github.com/topjohnwu/Magisk/releases/download/v30.6/Magisk-v30.6.apk",
 			"category": "iDavLaFF.apps.atv"
 		}
 	]
