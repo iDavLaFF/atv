@@ -4,73 +4,85 @@
 			"title": "RuStore",
 			"description": "version latest",
 			"url": "https://static.rustore.ru/release/RuStoreTV.apk",
-			"category": "iDavLaFF.apps.atv"
+			"category": "Store"
+		},
+		{
+			"title": "Projectivy Launcher",
+			"description": "version 4.6.8",
+			"url": "https://github.com/spocky/miproja1/releases/download/4.68/ProjectivyLauncher-4.68-c82-xda-release.apk",
+			"category": "Launcher"
 		},
 		{
 			"title": "AmneziaVPN",
 			"description": "version 4.8.11.4",
-			"url": "https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.11.4/AmneziaVPN_4.8.11.4_android9+_armeabi-v7a.apk",
-			"category": "iDavLaFF.apps.atv"
+			"url": "https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.12.8/AmneziaVPN_4.8.12.8_android9+_armeabi-v7a.apk",
+			"category": "VPN"
 		},
 		{
 			"title": "TorrServe Matrix",
 			"description": "version 137",
 			"url": "https://github.com/YouROK/TorrServe/releases/download/MatriX.137.Client/TorrServe_MatriX.137.Client-release.apk",
-			"category": "iDavLaFF.apps.atv"
-		},
-		{
-			"title": "SmartTube",
-			"description": "version latest",
-			"url": "https://github.com/yuliskov/SmartTube/releases/download/latest/smarttube_stable.apk",
-			"category": "iDavLaFF.apps.atv"
+			"category": "Streaming"
 		},
 		{
 			"title": "Lampa TV",
 			"description": "version latest",
 			"url": "https://github.com/lampa-app/LAMPA/releases/latest/download/app-lite-release.apk",
-			"category": "iDavLaFF.apps.atv"
+			"category": "Streaming"
 		},
 		{
 			"title": "VidHub",
 			"description": "version latest",
 			"url": "https://download.dacall.ai/tv/vidhub-TV-universal-release.apk",
-			"category": "iDavLaFF.apps.atv"
+			"category": "Streaming"
+		},
+		{
+			"title": "SmartTube",
+			"description": "version latest",
+			"url": "https://github.com/yuliskov/SmartTube/releases/download/latest/smarttube_stable.apk",
+			"category": "Streaming"
 		},
 		{
 			"title": "Vimu Media Player",
 			"description": "version latest",
 			"url": "https://get.vimu.tv/installer/VimuInstaller.apk",
-			"category": "iDavLaFF.apps.atv"
+			"category": "Player"
 		},
 		{
 			"title": "Just Video Player",
 			"description": "version 0.203",
 			"url": "https://github.com/moneytoo/Player/releases/download/v0.203/Just.Player.v0.203.apk",
-			"category": "iDavLaFF.apps.atv"
+			"category": "Player"
+		},
+		{
+			"title": "DDD Video Player",
+			"description": "version v1.0.4 (31)",
+			"url": "https://github.com/usmanec/dddplayer/releases/download/v1.0.4/app-release.apk",
+			"category": "Player"
 		},
 		{
 			"title": "ADB TV AppControl",
 			"description": "version latest",
 			"url": "https://adbappcontrol.com/tv/download/?r=latest&lang=ru",
-			"category": "iDavLaFF.apps.atv"
+			"category": "Utility"
 		},
 		{
 			"title": "tvQuickActions Pro",
 			"description": "version 3.5.5",
 			"url": "https://strannikmodz.me/index.php?do=download&id=6444",
-			"category": "iDavLaFF.apps.atv"
+			"category": "Utility"
 		},
 		{
 			"title": "Mixplorer ST",
 			"description": "version 6.65.9 Silver",
 			"url": "https://strannikmodz.me/index.php?do=download&id=5600",
-			"category": "iDavLaFF.apps.atv"
+			"category": "Utility"
 		},
 		{
 			"title": "Magisk",
 			"description": "version 30.6",
 			"url": "https://github.com/topjohnwu/Magisk/releases/download/v30.6/Magisk-v30.6.apk",
-			"category": "iDavLaFF.apps.atv"
+			"category": "Utility"
 		}
 	]
 }
