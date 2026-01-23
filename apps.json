@@ -14,7 +14,7 @@
 		},
 		{
 			"title": "AmneziaVPN",
-			"description": "version 4.8.11.4",
+			"description": "version 4.8.12.8",
 			"url": "https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.12.8/AmneziaVPN_4.8.12.8_android9+_armeabi-v7a.apk",
 			"category": "VPN"
 		},
@@ -52,12 +52,6 @@
 			"title": "Just Video Player",
 			"description": "version 0.203",
 			"url": "https://github.com/moneytoo/Player/releases/download/v0.203/Just.Player.v0.203.apk",
-			"category": "Player"
-		},
-		{
-			"title": "DDD Video Player",
-			"description": "version v1.0.4 (31)",
-			"url": "https://github.com/usmanec/dddplayer/releases/download/v1.0.4/app-release.apk",
 			"category": "Player"
 		},
 		{
