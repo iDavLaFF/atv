@@ -8,14 +8,14 @@
 		},
 		{
 			"title": "Projectivy Launcher",
-			"description": "version 4.6.8",
+			"description": "version 4.68",
 			"url": "https://github.com/spocky/miproja1/releases/download/4.68/ProjectivyLauncher-4.68-c82-xda-release.apk",
 			"category": "Launcher"
 		},
 		{
 			"title": "AmneziaVPN",
-			"description": "version 4.8.12.8",
-			"url": "https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.12.8/AmneziaVPN_4.8.12.8_android9+_armeabi-v7a.apk",
+			"description": "version 4.8.12.9",
+			"url": "https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.12.9/AmneziaVPN_4.8.12.9_android9+_armeabi-v7a.apk",
 			"category": "VPN"
 		},
 		{
@@ -43,15 +43,15 @@
 			"category": "Streaming"
 		},
 		{
-			"title": "Vimu Media Player",
+			"title": "DDD Video Player",
 			"description": "version latest",
-			"url": "https://get.vimu.tv/installer/VimuInstaller.apk",
+			"url": "https://github.com/usmanec/dddplayer/releases/latest/download/app-release.apk",
 			"category": "Player"
 		},
 		{
-			"title": "Just Video Player",
-			"description": "version 0.203",
-			"url": "https://github.com/moneytoo/Player/releases/download/v0.203/Just.Player.v0.203.apk",
+			"title": "Vimu Media Player",
+			"description": "version latest",
+			"url": "https://get.vimu.tv/installer/VimuInstaller.apk",
 			"category": "Player"
 		},
 		{
