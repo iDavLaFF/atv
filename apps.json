@@ -14,20 +14,26 @@
 		},
 		{
 			"title": "AmneziaVPN",
-			"description": "version 4.8.12.9",
-			"url": "https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.12.9/AmneziaVPN_4.8.12.9_android9+_armeabi-v7a.apk",
+			"description": "version 4.8.14.5",
+			"url": "https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.14.5/AmneziaVPN_4.8.14.5_android9+_armeabi-v7a.apk",
 			"category": "VPN"
 		},
 		{
 			"title": "TorrServe Matrix",
-			"description": "version 137",
-			"url": "https://github.com/YouROK/TorrServe/releases/download/MatriX.137.Client/TorrServe_MatriX.137.Client-release.apk",
+			"description": "version 141",
+			"url": "https://github.com/YouROK/TorrServe/releases/download/MatriX.141.Client/TorrServe_MatriX.141.Client-release.apk",
 			"category": "Streaming"
 		},
 		{
 			"title": "Lampa TV",
 			"description": "version latest",
 			"url": "https://github.com/lampa-app/LAMPA/releases/latest/download/app-lite-release.apk",
+			"category": "Streaming"
+		},
+		{
+			"title": "Stremio",
+			"description": "version 1.9.10",
+			"url": "https://dl.strem.io/android/v1.9.10-androidTV/com.stremio.one-1.9.10-11049225-armeabi-v7a.apk",
 			"category": "Streaming"
 		},
 		{
@@ -74,8 +80,8 @@
 		},
 		{
 			"title": "Magisk",
-			"description": "version 30.6",
-			"url": "https://github.com/topjohnwu/Magisk/releases/download/v30.6/Magisk-v30.6.apk",
+			"description": "version 30.7",
+			"url": "https://github.com/topjohnwu/Magisk/releases/download/v30.7/Magisk-v30.7.apk",
 			"category": "Utility"
 		}
 	]
