@@ -19,6 +19,12 @@
 			"category": "VPN"
 		},
 		{
+			"title": "VPN4TV",
+			"description": "version latest",
+			"url": "bell.a4e.ar/vpn4tv-native-alpha.apk",
+			"category": "VPN"
+		},
+		{
 			"title": "TorrServe Matrix",
 			"description": "version 141",
 			"url": "https://github.com/YouROK/TorrServe/releases/download/MatriX.141.Client/TorrServe_MatriX.141.Client-release.apk",
@@ -32,8 +38,8 @@
 		},
 		{
 			"title": "Stremio",
-			"description": "version 1.9.10",
-			"url": "https://dl.strem.io/android/v1.9.10-androidTV/com.stremio.one-1.9.10-11049225-armeabi-v7a.apk",
+			"description": "version 1.9.12",
+			"url": "https://dl.strem.io/android/v1.9.12-androidTV/com.stremio.one-1.9.12-11049228-armeabi-v7a.apk",
 			"category": "Streaming"
 		},
 		{
