@@ -13,15 +13,15 @@
 			"category": "Launcher"
 		},
 		{
-			"title": "AmneziaVPN",
-			"description": "version 4.8.14.5",
-			"url": "https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.14.5/AmneziaVPN_4.8.14.5_android9+_armeabi-v7a.apk",
+			"title": "V2RayTun",
+			"description": "version latest",
+			"url": "https://github.com/DigneZzZ/v2raytun/releases/latest/download/v2RayTun_universal.apk",
 			"category": "VPN"
 		},
 		{
-			"title": "VPN4TV",
-			"description": "version latest",
-			"url": "bell.a4e.ar/vpn4tv-native-alpha.apk",
+			"title": "AmneziaVPN",
+			"description": "version 4.8.15.4",
+			"url": "https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.15.4/AmneziaVPN_4.8.15.4_android9+_armeabi-v7a.apk",
 			"category": "VPN"
 		},
 		{
