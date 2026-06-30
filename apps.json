@@ -8,8 +8,8 @@
 		},
 		{
 			"title": "Projectivy Launcher",
-			"description": "version 4.68",
-			"url": "https://github.com/spocky/miproja1/releases/download/4.68/ProjectivyLauncher-4.68-c82-xda-release.apk",
+			"description": "version 4.70",
+			"url": "https://github.com/spocky/miproja1/releases/download/4.70/ProjectivyLauncher-4.70-c92-xda-release.apk",
 			"category": "Launcher"
 		},
 		{
@@ -20,8 +20,8 @@
 		},
 		{
 			"title": "AmneziaVPN",
-			"description": "version 4.8.15.4",
-			"url": "https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.15.4/AmneziaVPN_4.8.15.4_android9+_armeabi-v7a.apk",
+			"description": "version 4.8.19.0",
+			"url": "https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.19.0/AmneziaVPN_4.8.19.0_android9+_armeabi-v7a.apk",
 			"category": "VPN"
 		},
 		{
@@ -38,8 +38,8 @@
 		},
 		{
 			"title": "Stremio",
-			"description": "version 1.9.12",
-			"url": "https://dl.strem.io/android/v1.9.12-androidTV/com.stremio.one-1.9.12-11049228-armeabi-v7a.apk",
+			"description": "version 1.10.4",
+			"url": "https://dl.strem.io/android/v1.10.4-androidTV/com.stremio.one-1.10.4-31048580-armeabi-v7a.apk",
 			"category": "Streaming"
 		},
 		{
