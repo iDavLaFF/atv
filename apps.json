@@ -8,8 +8,8 @@
 		},
 		{
 			"title": "Projectivy Launcher",
-			"description": "version 4.70",
-			"url": "https://github.com/spocky/miproja1/releases/download/4.70/ProjectivyLauncher-4.70-c92-xda-release.apk",
+			"description": "version 4.71",
+			"url": "https://github.com/spocky/miproja1/releases/download/4.71/ProjectivyLauncher-4.71-c95-xda-release.apk",
 			"category": "Launcher"
 		},
 		{
@@ -82,12 +82,6 @@
 			"title": "Mixplorer ST",
 			"description": "version 6.65.9 Silver",
 			"url": "https://strannikmodz.me/index.php?do=download&id=5600",
-			"category": "Utility"
-		},
-		{
-			"title": "Magisk",
-			"description": "version 30.7",
-			"url": "https://github.com/topjohnwu/Magisk/releases/download/v30.7/Magisk-v30.7.apk",
 			"category": "Utility"
 		}
 	]
