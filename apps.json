@@ -13,6 +13,12 @@
 			"category": "Launcher"
 		},
 		{
+			"title": "Monet Launcher",
+			"description": "version 1.0.67",
+			"url": "https://github.com/Klevico/Monet-Launcher/releases/download/v1.0.67/monet-1.0.67.apk",
+			"category": "Launcher"
+		},
+		{
 			"title": "V2RayTun",
 			"description": "version latest",
 			"url": "https://github.com/DigneZzZ/v2raytun/releases/latest/download/v2RayTun_universal.apk",
